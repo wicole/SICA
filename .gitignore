@@ -1,0 +1,24 @@
+# Arquivos compilados do Java
+*.class
+
+# Diretório de compilação
+bin/
+out/
+target/
+
+# Configurações do Visual Studio Code
+.vscode/
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.log
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários de editores
+*.swp
+*.swo
+*~
